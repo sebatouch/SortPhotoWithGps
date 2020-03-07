@@ -1,0 +1,5 @@
+exifread
+requests
+reverse-geocode
+Sphinx
+rinohtype
